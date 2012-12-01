@@ -1,0 +1,7 @@
+eagle.epf
+
+# Ignore .b#1, .b#2, etc files
+*.b#*
+
+# Ignore .s#1, .s#2, etc files
+*.s#*
