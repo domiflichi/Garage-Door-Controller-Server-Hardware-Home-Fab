@@ -13509,15 +13509,15 @@ type 0309, grid 2.5 mm</description>
 <text x="3.000003125" y="-3.000003125" size="1.27" layer="27" rot="R90">&gt;VALUE</text>
 </package>
 <package name="PB874">
-<wire x1="0" y1="0" x2="18.25" y2="0" width="0.127" layer="21"/>
-<wire x1="18.25" y1="0" x2="18.25" y2="10.25" width="0.127" layer="21"/>
-<wire x1="18.25" y1="10.25" x2="0" y2="10.25" width="0.127" layer="21"/>
-<wire x1="0" y1="10.25" x2="0" y2="0" width="0.127" layer="21"/>
-<pad name="2" x="0.25" y="0.25" drill="0.8" shape="long" rot="R180"/>
-<pad name="1" x="0.25" y="10" drill="0.8" shape="long" rot="R180"/>
-<pad name="3" x="14.25" y="0.25" drill="0.8" shape="long" rot="R180"/>
-<pad name="4" x="18" y="10" drill="0.8" shape="long" rot="R180"/>
-<text x="6.35" y="7.62" size="1.27" layer="21">&gt;NAME</text>
+<wire x1="0" y1="0" x2="16.98" y2="0" width="0.127" layer="21"/>
+<wire x1="16.98" y1="0" x2="16.98" y2="8.98" width="0.127" layer="21"/>
+<wire x1="16.98" y1="8.98" x2="0" y2="8.98" width="0.127" layer="21"/>
+<wire x1="0" y1="8.98" x2="0" y2="0" width="0.127" layer="21"/>
+<pad name="2" x="0.25" y="0.25" drill="1.016" shape="long" rot="R180"/>
+<pad name="1" x="0.123" y="8.01878125" drill="1.016" shape="long" rot="R180"/>
+<pad name="3" x="13.6144" y="0.25" drill="1.016" shape="long" rot="R180"/>
+<pad name="4" x="15.966440625" y="8.22198125" drill="1.016" shape="long" rot="R180"/>
+<text x="6.35" y="5.08" size="1.27" layer="21">&gt;NAME</text>
 </package>
 </packages>
 <symbols>
