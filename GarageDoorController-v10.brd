@@ -109,7 +109,8 @@
 <hole x="73.66" y="40.64" drill="3.2"/>
 <hole x="73.66" y="2.54" drill="3.2"/>
 <hole x="3.81" y="16.51" drill="3.2"/>
-<text x="43.18" y="13.97" size="1.778" layer="26" rot="R180">JamieNerd.blogspot.com</text>
+<text x="43.18" y="13.97" size="1.778" layer="27" rot="R180">JamieNerd.blogspot.com</text>
+<text x="57.15" y="41.91" size="1.778" layer="27">GDC v1.0</text>
 </plain>
 <libraries>
 <library name="atmel">
@@ -2889,7 +2890,7 @@ design rules under a new name.</description>
 <attribute name="MF" value="" x="21.59" y="90.17" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="OC_FARNELL" value="unknown" x="21.59" y="90.17" size="1.778" layer="27" rot="R180" display="off"/>
 <attribute name="VALUE" x="54.57" y="35.56" size="1.27" layer="27" ratio="10" rot="R180"/>
-<attribute name="NAME" x="53.3762" y="44.3738" size="1.27" layer="26" ratio="10" rot="MR180"/>
+<attribute name="NAME" x="53.3762" y="44.3738" size="1.27" layer="25" ratio="10" rot="R180"/>
 </element>
 </elements>
 <signals>
