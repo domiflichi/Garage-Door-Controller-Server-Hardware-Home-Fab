@@ -6,6 +6,9 @@ For your convenience, I have already created a pdf file of the board that you ca
 to print out and use the 'iron-on' method for creating your own single-sided board:
 GarageDoorController-v10.pdf
 
+When assembling your board, I have provided an additional pdf for your reference:
+GarageDoorController-v10AssemblyReference.pdf
+
 
 If you want to send gerber files off to a board house, I highly recommend using my 
 other repository:
